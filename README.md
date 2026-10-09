@@ -1,4 +1,7 @@
 # Hi there, I'm Binu D Mathew 👋
+<p align="center">
+  <img src="./cybersecurity-banner.png" alt="BinuMath08 Cyber Security Student Banner" width="100%" />
+</p>
 
 ### Cyber Security Student | Aspiring Cybersecurity Professional
 
