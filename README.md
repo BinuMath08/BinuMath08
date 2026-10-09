@@ -4,13 +4,19 @@
 
 I'm a Cyber Security student interested in understanding how digital systems work and how to protect them from cyber threats. I'm building my skills in cybersecurity, networking, and secure computing through continuous learning and hands-on practice.
 
+<p align="left">
+  <a href="https://github.com/BinuMath08">
+    <img src="https://img.shields.io/badge/GitHub-BinuMath08-181717?style=for-the-badge&logo=github" alt="GitHub profile: BinuMath08" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Studying **Cyber Security**
 - 🔐 Interested in cybersecurity fundamentals, network security, and ethical hacking
-- 🌱 Currently learning more about security tools, technologies, and best practices
+- 🌱 Currently learning security tools, technologies, and security best practices
 - 🧪 Interested in practical labs, security projects, and problem-solving
 - 🤝 Open to learning from the cybersecurity community and collaborating on beginner-friendly projects
 
@@ -26,37 +32,39 @@ I'm a Cyber Security student interested in understanding how digital systems wor
 
 ## 📌 Projects
 
-*Add your own projects here as you build them.*
+*Add links to projects you have actually completed as you build them.*
 
 - **Cybersecurity Lab Notes** — Notes and lessons from labs, exercises, and learning activities.
-- **Networking Practice** — Small exercises to understand networking concepts and protocols.
-- **Security Tools Exploration** — Documenting what you learn while practicing with security tools in authorized environments.
+- **Networking Practice** — Exercises to understand networking concepts and protocols.
+- **Security Tools Exploration** — Learning notes from using security tools in authorized environments.
 
-> Replace these examples with links to projects you have actually completed. Only list tools and skills you can confidently discuss.
+> These are project ideas. Replace them with real repository links when your projects are ready.
 
 ## 🎯 Current Goals
 
 - Strengthen my networking and Linux fundamentals
-- Learn cybersecurity concepts through hands-on, authorized practice
-- Build practical projects and document my learning
+- Learn cybersecurity through hands-on, authorized practice
+- Build practical projects and document what I learn
 - Develop responsible security habits and ethical problem-solving skills
 
 ## 📊 GitHub Stats
 
-<!-- Replace YOUR_GITHUB_USERNAME with your GitHub username after creating your account/profile. -->
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BinuMath08&show_icons=true&hide_border=true" alt="BinuMath08's GitHub stats" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinuMath08&layout=compact&hide_border=true" alt="Most-used languages in BinuMath08's public repositories" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BinuMath08&hide_border=true" alt="BinuMath08's GitHub contribution streak" />
 </p>
 
 ## 🤝 Connect With Me
 
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- Add your LinkedIn or portfolio link here when available.
+- **GitHub:** [@BinuMath08](https://github.com/BinuMath08)
+- **LinkedIn / Portfolio:** Add your link here when available.
 
 ---
 
